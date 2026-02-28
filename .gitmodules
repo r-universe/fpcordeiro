@@ -5,3 +5,6 @@
 [submodule "dtaudit"]
 	path = dtaudit
 	url = https://github.com/fpcordeiro/dtaudit
+[submodule "tidyaudit"]
+	path = tidyaudit
+	url = https://github.com/fpcordeiro/tidyaudit
